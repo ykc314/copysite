@@ -1,0 +1,49 @@
+.wrap1 {
+  height: 100vh;
+  /* width: 1265px; */
+  background-image: url(./pic/201125+-+Label+Macro_1.png);
+  background-size: cover;
+}
+
+.wrap2 {
+  height: 100vh;
+  background-color: darkgreen;
+  background-size: cover;
+}
+
+.titleLogo {
+  margin: 50px;
+  width: 70px;
+  height: 70px;
+  position: relative;
+  left: 20px;
+  /* top: 20px; */
+}
+
+.menu {
+  color: white;
+  float: right;
+  padding: 20px 70px 50px 0px;
+  position: relative;
+  left: 850px;
+}
+
+.menu td {
+  /* display: table; */
+  /* background-color: green; */
+  /* margin: 10px; */
+  /* position: ; */
+  padding: 50px 20px;
+  /* border-collapse: separate;
+  border-spacing: 100px; */
+  font-weight: bold;
+}
+
+.wrap3 {
+  position:fixed;
+  width: 100%;
+  /* top: 0px;
+  left: 0px; */
+  background-color: darkgreen;
+  /* background-clip: padding-box; */
+}
