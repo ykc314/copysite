@@ -1,0 +1,91 @@
+.wrap1 {
+  height: 150vw;
+}
+
+.titleLogo {
+  width: 120px;
+  height: 70px;
+  float: left;
+  margin-left: 20vw;
+}
+
+.menu {
+  float: right;
+  margin-right: 20vw;
+  font-size: 14px;
+}
+
+td {
+  /* margin: 20px; */
+  padding: 20px;
+}
+
+a:link, a:visited {
+  color: black;
+  text-decoration: none;
+}
+
+.mainImg {
+  width: 100vw;
+}
+
+h2 {
+  margin: 15vh auto;
+  border-bottom: 1px solid;
+  width: 6.5vw;
+  font-size: 2vw;
+}
+
+.wrap3 {
+  margin-left: 30vw;
+  overflow:  hidden;
+  /* text-align: center; */
+}
+
+.profile {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  float: left;
+}
+
+.article1 {
+  float: left;
+  padding-left: 50px
+}
+
+.text {
+  padding-top: 10px;
+  font-size: 15px;
+}
+
+.wrap4 {
+  margin-left: 18vw;
+  /* width: 500px; */
+
+  /* clear: both;
+  margin-top: 50px; */
+}
+
+li {
+  list-style: none;
+  /* margin-left: 20vw; */
+}
+
+.imgList {
+  padding-left: 20px;
+  float: left;
+}
+
+.img2 {
+  width: 20vw
+}
+
+ul h4 {
+  clear: both;
+}
+
+#footer {
+  text-align: center;
+  font-size: 0.5rem;
+}
